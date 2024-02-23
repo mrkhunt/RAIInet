@@ -1,4 +1,7 @@
-<p align="center"><img width="50%" src="assets/raiinet-title.png" ></p>
+<p align="center">
+<img width="50%" src="assets/raiinet-title-light.png#gh-light-mode-only" >
+<img width="50%" src="assets/raiinet-title-dark.png#gh-dark-mode-only" >
+</p>
 
 <h1> RAIInet </h1>
 
@@ -14,10 +17,10 @@ This game is well-structured and efficiently developed using OOP concepts and so
 
 <div align="center">
 <table><tr><td>
-    <img src="assets/raiinet-textdisplay.png" />
+    <img src="assets/raiinet-textdisplay-light.png#gh-light-mode-only" />
+    <img src="assets/raiinet-textdisplay-dark.png#gh-dark-mode-only" />
 </td></tr></table>
 </div>
-
 
 <h2> Graphics Display </h2>
 
