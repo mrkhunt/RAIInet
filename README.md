@@ -12,7 +12,12 @@ This game is well-structured and efficiently developed using OOP concepts and so
 
 <h2> Text Display </h2>
 
-<p align="center"><img border="1px" width="50%" src="assets/raiinet-textdisplay.png" ></p>
+<div align="center">
+<table><tr><td>
+    <img src="assets/raiinet-textdisplay.png" />
+</td></tr></table>
+</div>
+
 
 <h2> Graphics Display </h2>
 
